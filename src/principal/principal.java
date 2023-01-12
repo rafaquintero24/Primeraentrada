@@ -6,6 +6,7 @@ public class principal {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hola me llamo Rafa");
+		System.out.println("Hemos creado una segunda Rama");
 	}
 
 }
